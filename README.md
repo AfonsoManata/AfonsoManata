@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi, I'm Afonso Manata 👋
 
-<!--
-**AfonsoManata/AfonsoManata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 🎓 About me 
+  I am a first-year Computer Science and Engineering student at Instituto Superior Técnico, passionate about coding and creating projects that make a meaningful impact on people's lives.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
