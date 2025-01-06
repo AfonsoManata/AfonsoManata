@@ -5,8 +5,8 @@
 
 ## 🚀 What I'm Up To
 💻 Building Full-Stack / Back-End Apps using different frameworks
+
 🤖 Exploring Machine Learning with Python Libraries
-Check out my coding portfolio!
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoManata&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
