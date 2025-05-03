@@ -1,4 +1,4 @@
-# Hi, I'm Afonso Manata 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Markdown&pause=1000&color=25209C&background=781CFF00&width=435&lines=Hello!+I'm+Afonso+Manata+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🎓 About me 
   I am a first-year Computer Science and Engineering student at Instituto Superior Técnico, passionate about coding and creating projects that make a meaningful impact on people's lives.
