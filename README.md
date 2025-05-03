@@ -5,9 +5,9 @@
 
 
 ## 🚀 What I'm Up To
-### 💻 Building Full-Stack / Back-End Apps using different frameworks
+### - Building Full-Stack / Back-End Apps using different frameworks 🖥️
 
-### 🤖 Exploring Machine Learning with Python Libraries
+### - Exploring Machine Learning with Python Libraries 🤖 
 
 
 ## 📊 GitHub Stats:
