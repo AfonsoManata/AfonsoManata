@@ -14,7 +14,7 @@
 ### Languages: 
 [![My Skills](https://skillicons.dev/icons?i=go,python,ts,js,c,html,css)](https://skillicons.dev)
 ### Libraries/Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=postgres,nodejs,react,sqlite,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,nodejs,express,react,sqlite,docker)](https://skillicons.dev)
 ### Developer Tools: 
 [![My Skills](https://skillicons.dev/icons?i=git,postman,neovim,github)](https://skillicons.dev)
  
