@@ -2,9 +2,7 @@
 
 ## 🎓 About me 
   I am a first-year Computer Science and Engineering student at Instituto Superior Técnico, passionate about coding and creating projects that make a meaningful impact on people's lives. Take a look at my [website](https://afonsomanata.com)
-
 <br><br>
-
 ## 🚀 What I'm Up To
   • Building Full-Stack / Back-End Apps using different frameworks 🖥️  
   • Exploring Machine Learning with Python Libraries 🤖  
