@@ -5,7 +5,7 @@
   
 ## 🚀 What I'm Up To
   • Building Full-Stack / Back-End Apps using different frameworks 🖥️  
-  • Exploring Machine Learning with Python Libraries 🤖  
+  • Exploring Distributed Systems, Networking, and Reliability Engineering principles for high-availability services ⚙️  
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=AfonsoManata&theme=dark&hide_border=false)<br/>[![](https://visitcount.itsvg.in/api?id=AfonsoManata&icon=0&color=0)](https://visitcount.itsvg.in)
