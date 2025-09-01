@@ -13,9 +13,9 @@ I’m seeking opportunities and collaborations where I can grow, contribute, and
 
 ## 💻 Tech Stack
 ### Languages: 
-[![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,c,html,css)](https://afonsomanata.com)
+[![My Skills](https://skillicons.dev/icons?i=java,go,py,ts,js,c,html,css)](https://afonsomanata.com)
 ### Libraries/Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=postgres,nodejs,express,react,sqlite,docker)](https://afonsomanata.com)
 ### Developer Tools: 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,neovim,github)](https://afonsomanata.com)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,postman,neovim,github)](https://afonsomanata.com)
  
