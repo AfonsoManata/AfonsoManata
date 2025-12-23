@@ -17,5 +17,5 @@ I’m seeking opportunities and collaborations where I can grow, contribute, and
 [![My Skills](https://skillicons.dev/icons?i=aws,git,postman,neovim,github)](https://afonsomanata.com)
  
 ## 📊 GitHub Stats
-![AfonsoManata's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AfonsoManata&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfonsoManata&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=AfonsoManata&theme=dark&hide_border=false)<br/>[![](https://visitcount.itsvg.in/api?id=AfonsoManata&icon=0&color=0)](https://visitcount.itsvg.in)
