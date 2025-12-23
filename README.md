@@ -19,3 +19,5 @@ I’m seeking opportunities and collaborations where I can grow, contribute, and
 ### Developer Tools: 
 [![My Skills](https://skillicons.dev/icons?i=aws,git,postman,neovim,github)](https://afonsomanata.com)
  
+## 📊 GitHub Stats
+![AfonsoManata's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AfonsoManata&theme=dark&hide_border=true)
