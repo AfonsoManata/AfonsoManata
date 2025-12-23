@@ -8,9 +8,6 @@ I’m seeking opportunities and collaborations where I can grow, contribute, and
   • Building Full-Stack / Back-End Apps using different frameworks 🖥️  
   • Exploring Distributed Systems, Networking, and Reliability Engineering principles for high-availability services ⚙️  
 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=AfonsoManata&theme=dark&hide_border=false)<br/>[![](https://visitcount.itsvg.in/api?id=AfonsoManata&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 💻 Tech Stack
 ### Languages: 
 [![My Skills](https://skillicons.dev/icons?i=java,go,py,ts,js,c,html,css)](https://afonsomanata.com)
@@ -21,3 +18,4 @@ I’m seeking opportunities and collaborations where I can grow, contribute, and
  
 ## 📊 GitHub Stats
 ![AfonsoManata's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AfonsoManata&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=AfonsoManata&theme=dark&hide_border=false)<br/>[![](https://visitcount.itsvg.in/api?id=AfonsoManata&icon=0&color=0)](https://visitcount.itsvg.in)
