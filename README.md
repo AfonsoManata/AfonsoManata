@@ -4,7 +4,7 @@
   I’m a second-year Computer Science and Engineering student @ Instituto Superior Técnico, passionate about building scalable, reliable systems that create real impact. Take a look at my [website](https://afonsomanata.com/)
   
 ## 🚀 What I'm Up To
-  • Building Full-Stack / Back-End Apps using different frameworks 🖥️  
+  • Building Back-End Apps 🖥️  
   • Exploring Distributed Systems, Networking, and Reliability Engineering principles for high-availability services ⚙️  
 
 ## 💻 Tech Stack
